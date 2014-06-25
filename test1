@@ -1,0 +1,4 @@
+def create
+	print "hello"
+	print "hey u"
+end
